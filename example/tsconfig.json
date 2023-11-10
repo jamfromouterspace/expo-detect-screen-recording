@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "expo-detect-screen-recording": ["../src/index"],
+      "expo-detect-screen-recording/*": ["../src/*"]
+    }
+  }
+}
