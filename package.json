@@ -1,6 +1,6 @@
 {
   "name": "expo-detect-screen-recording",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Detect when a user has started screen recording",
   "main": "build/index.js",
   "types": "build/index.d.ts",
